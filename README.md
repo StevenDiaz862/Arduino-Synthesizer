@@ -16,4 +16,14 @@ Requirements:
 -Rotary encoder with push button
 -2-axis joystick module
 
-Refer to the wiring diagram: https://docs.google.com/document/d/13ac8-PLhDQrmfjJzI_jqZb8SlGcbrm9i3a5CzMd1JAo/edit?tab=t.0
+Getting Started:
+-Refer to the wiring diagram: https://docs.google.com/document/d/13ac8-PLhDQrmfjJzI_jqZb8SlGcbrm9i3a5CzMd1JAo/edit?tab=t.0
+-Open the .ino file in the Arduino IDE.
+-Upload the sketch to your Arduino UNO.
+-Open the Serial Monitor (9600 baud) to observe mode changes.
+-Start playing notes using the buttons and explore the features:
+-Turn the rotary encoder to shift octaves.
+-Move the joystick to bend pitch.
+-Press the encoder button to switch musical modes.
+-Press the transposition button to shift the entire keyboard by semitones.
+
